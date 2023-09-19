@@ -1,0 +1,17 @@
+name: Santo Cabrón
+tagline: An international corporation conglomerate
+baseurl: https://santocabron.com
+author: Santo Cabrón
+description: An anarchist corporation laundering money thru psychedelic cumbia projects
+dest: build
+css: tailwind
+include:
+    - layouts
+    - pages
+    # - posts
+    # - data
+copy:
+    - public
+exclude:
+    - .draft.md
+version: 3
