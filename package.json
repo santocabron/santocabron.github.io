@@ -1,0 +1,23 @@
+{
+  "name": "santocabron",
+  "version": "1.0.0",
+  "description": "Santo Cabron Corporation is an international conglomerate for business and the support of philantropic efforts ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'tested'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santocabron/santocabron.github.io.git"
+  },
+  "keywords": [
+    "santo",
+    "cabron"
+  ],
+  "author": "santo cabron",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/santocabron/santocabron.github.io/issues"
+  },
+  "homepage": "https://github.com/santocabron/santocabron.github.io#readme"
+}
