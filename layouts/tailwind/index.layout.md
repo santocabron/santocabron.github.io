@@ -1,7 +1,4 @@
 ---
-title: Welcome!
-description: Meow
-permalink: ''
 name: index
 ---
 <!DOCTYPE html>
@@ -16,9 +13,23 @@ name: index
   </style>
 </head>
 <body>
-  <div class="">
-    <div>
-      {{{content}}}
+<header class="relative
+        z-10
+        pt-[120px]
+        px-4
+        md:pt-[130px]
+        lg:pt-[160px]
+        pb-[100px]
+        bg-primary
+        overflow-hidden">
+    <div class="inner">
+        <h1>Welcome to {{page.name}}</h1>
+        <h2>{{page.description}}</h2>
+    </div>
+</header>
+  <div class="container">
+    <div class="inner">
+      {{{page.html}}}
     </div>
   </div>
 </body>
