@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo 'tested'",
+    "copy": "./node_modules/gloriajs/bin/gloria copy",
     "build": "./node_modules/gloriajs/bin/gloria build"
   },
   "repository": {

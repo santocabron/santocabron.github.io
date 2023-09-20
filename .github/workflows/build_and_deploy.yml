@@ -22,16 +22,13 @@ jobs:
           node-version: 16
 
       - name: Install
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: yarn install --ignore-optional
 
       - name: Build 🔧 # Creates the build folder to deploy
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: yarn build
+
+      - name: Copy 🔧 # Copies public folder to dest
+        run: yarn copy
 
       - name: Upload Artifact
         uses: actions/upload-pages-artifact@v1

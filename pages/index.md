@@ -21,4 +21,4 @@ permalink: '/'
 
 **Black Rock City - NYC - Miami - Santa Cruz - Los angeles**
 
-<img src="./public/logo.png" alt="Santo Cabrón holdings logo" />
+<img src="./logo.png" alt="Santo Cabrón holdings logo" />
