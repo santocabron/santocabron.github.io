@@ -3,6 +3,7 @@ name: Santo Cabrón
 description: Santo Cabrón is a mythical creature who inspires the chaos that leads to creative expression and an international assets managemenet corporation
 layout: index
 permalink: '/'
+title: Santo Cabrón
 ---
 
 **Black Rock City - NYC - Miami - Santa Cruz - Los angeles**
