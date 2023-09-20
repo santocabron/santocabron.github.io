@@ -8,4 +8,4 @@ permalink: '/'
 
 **Black Rock City - NYC - Miami - Santa Cruz - Los angeles**
 
-<img src="./logo.png" />
+<img src="./public/logo.png" />
