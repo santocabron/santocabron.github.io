@@ -8,7 +8,12 @@ title: Santo Cabrón
 
 **Black Rock City - NYC - Miami - Santa Cruz - Los angeles**
 
-<img src="./logo.png" alt="Santo Cabrón holdings logo" class="max-w-screen-md" style="max-width: 100%;"/>
+<img src="./logo.png" alt="Santo Cabrón holdings logo" class="max-w-screen-md" style="width: 90%; max-width: 720px; margin: 12px auto;"/>
+
+### Currently working on:
+
+- Loveburn '24
+- Black Rock City '24
 
 ### Past projects:
 
