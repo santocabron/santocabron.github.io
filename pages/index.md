@@ -8,7 +8,7 @@ title: Santo Cabrón
 
 **Black Rock City - NYC - Miami - Santa Cruz - Los angeles**
 
-<img src="./logo.png" alt="Santo Cabrón holdings logo" class="max-w-screen-md" style="width: 90%; max-width: 720px; margin: 12px auto;"/>
+<img src="./santo-cabron-logo.png" alt="Santo Cabrón holdings logo" class="max-w-screen-md" style="width: 90%; max-width: 720px; margin: 12px auto;"/>
 
 ### Currently working on:
 
