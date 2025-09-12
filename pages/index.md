@@ -12,10 +12,12 @@ title: Santo Cabrón
 
 ### Currently working on:
 
-- Black Rock City '25
+- Black Rock City '26
+- Loveburn '26
 
 ### Past projects:
 
+- Black Rock City '25
 - Aestival '25
 - PortalBurn '25
 - Disorient Country Club '25
